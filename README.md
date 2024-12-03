@@ -1,1 +1,1 @@
-# canoa-havaiana
+# projeto integrador - senac paranaguá
